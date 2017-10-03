@@ -1,0 +1,888 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=41409;
+ d=email.upc.nl;s=upc2013;
+ h=from;
+ bh=/ZlXdQyrsGKJcfBkfV0zeqHB2LGa7IQNSW1clsGiYlw=;
+ b=EDZf0KxNkeflXmW9RH/gzvvDPMk1fy9aKrXhrvH6ScZNdNgBPBRBPTVZxilUw36zs7zKmH/R
+ 8uRGj8wLxxBGk4JDqcb0sHWG2310zoXcrAwOo5bnRKDRXTRmWwtoqvMkgYKXYdYOnYBlHK9q
+ NatOeAlIlXlQg4cxp2j3zlUdZOM=;
+From: "UPC" <upc.nl@email.upc.nl>
+To: menzo_wijmenga@hotmail.com
+Subject: Verbeter uw internetverbinding!
+Date: Tue, 03 Oct 2017 11:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="MIMEBoundaryfcd25ccb4eab0b2fca3b8f81818b64f3"
+List-Unsubscribe: <mailto:leave-4383554-55620756.b2de3f43c7e2066eb532888e84ca71be@email.upc.nl>
+Message-ID: <LYRIS-55620756-4383554-2015.03.20-08.00.07--menzo.wijmenga#gmail.com@email.upc.nl>
+CM-Message-ID: <LYRIS-55620756-4383554-2015.03.20-08.00.36--menzo.wijmenga#gmail.com@email.upc.nl>
+
+This is a multi-part message in MIME format.
+
+--MIMEBoundaryfcd25ccb4eab0b2fca3b8f81818b64f3
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Beste meneer, mevrouw,
+
+Wij hebben u een e-mail gestuurd, maar uw e-mailprogramma toont geen afbeel=
+dingen. Klik op=20=
+http://email.upc.nl/t/4383554/55620756/12620/4/?6299e5a7=3DaHR0cDovL2VtYWls=
+LnVwYy5ubC9yZWFkL2FyY2hpdmU%2faWQ9MjY2NTQ1Jm1pZD01NTYyMDc1NiZlPW1lbnpvJTJld=
+2lqbWVuZ2ElNDBnbWFpbCUyZWNvbSZ4PTRmNGRiMDQz&x=3D47429386=
+ om de online versie te bekijken, of kopieer en plak deze link in uw intern=
+etbrowser.
+Met vriendelijke groet,
+
+UPC Nederland
+
+(insert your content here)
+--
+U bent momenteel ingeschreven in de=20=
+upc_nl=
+ als :=20=
+menzo.wijmenga@gmail.com=
+.
+Om u uit te schrijven klik hier:=20=
+http://email.upc.nl/t/4383554/55620756/12612/5/?90482085=3DaHR0cDovL2VtYWls=
+LnVwYy5ubC91P2lkPTU1NjIwNzU2LmIyZGUzZjQzYzdlMjA2NmViNTMyODg4ZTg0Y2E3MWJlJm4=
+9VCZsPXVwY19ubCZvPTQzODM1NTQ%3d&x=3D9e483b15=
+
+Of zend een email zonder tekst naar=20=
+leave-4383554-55620756.b2de3f43c7e2066eb532888e84ca71be@email.upc.nl=
+
+
+
+--MIMEBoundaryfcd25ccb4eab0b2fca3b8f81818b64f3
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+=
+
+=
+=
+
+<head>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<style type=3D"text/css">
+.ReadMsgBody, .ExternalClass { width: 100%;}
+.ExternalClass * {line-height: 110%;}
+body { width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; margin: 0; padding: 0; }
+table { border-collapse:collapse !important; mso-table-lspace:0pt; mso-tabl=
+e-rspace:0pt; }
+sup, sub { vertical-align: baseline; position: relative; top: -0.4em; font-=
+size:85%; }
+
+/*iPhone link fix*/
+span > a { color:inherit!important; text-decoration: none; }
+
+@media only screen and (max-width: 768px) {
+*[class*=3D"tablet-hide"], *[class*=3D"tablet-hide"] * { display:none!impor=
+tant; max-height:0!important; max-width:0!important; height:0!important; wi=
+dth:0px!important; padding-top:0!important; padding-right:0!important; padd=
+ing-left:0!important; padding-bottom:0!important; margin:0!important; visib=
+ility:hidden!important; line-height:0px!important; font-size:0px!important;=
+ background:none!important; }
+*[class*=3D"tablet-padding-bottom-10"] { padding-bottom:10px !important; }
+}
+
+@media only screen and (max-width: 480px) {
+
+/*Set to the width and padding of the mobile design*/
+table[class*=3D"MainTable"] { width:300px!important; }
+*[class*=3D"main-padding"] { padding:0px 10px!important; }
+
+/*Standard framework for responsive emails*/
+/*GENERAL SETTINGS*/ *[class*=3D"hide"], *[class*=3D"hide"] * { display:non=
+e!important; max-height:0!important; max-width:0!important; height:0!import=
+ant; width:0px!important; padding-top:0!important; padding-right:0!importan=
+t; padding-left:0!important; padding-bottom:0!important; margin:0!important=
+; visibility:hidden!important; line-height:0px!important; font-size:0px!imp=
+ortant; background:none!important; } *[class*=3D"show"], *[class*=3D"show"]=
+ * { display:block!important; visibility:visible!important; height:auto!imp=
+ortant; width:auto!important; max-height:none!important; min-height:none!im=
+portant; max-width:none!important; min-width:none!important; line-height:12=
+0%!important; } *[class*=3D"float-left"] { float:left !important; } *[class=
+*=3D"float-right"] { float:right !important; }
+/*RESET FLOATS*/ *[class*=3D"drop"], *[class*=3D"drop"] tbody, *[class*=3D"=
+drop"] table, *[class*=3D"drop"] tr { float:none!important; clear:both!impo=
+rtant; width:100%!important; padding:0!important; display:block!important; =
+} *[class*=3D"block"] { float:none!important; clear:both!important; width:1=
+00%!important; padding:0!important; display:block!important; }
+/*POSITIONING*/ *[class*=3D"center"] { text-align:center!important;} *[clas=
+s*=3D"align-left"] { text-align:left!important; } *[class*=3D"align-right"]=
+ { text-align:right!important; } *[class*=3D"absolute"] { position:absolute=
+!important; }
+/*DISPLAY RESETS*/ table[class*=3D"block"], table[class*=3D"show"], table[c=
+lass*=3D"drop"], *[class*=3D"drop"] table, *[class*=3D"drop"] tbody { displ=
+ay:table!important; } *[class*=3D"drop"] tr { display:table-row!important; =
+} *[class*=3D"block"], *[class*=3D"show"], *[class*=3D"drop"] td { display:=
+table-cell!important; } *[class*=3D"center"] img, img[class*=3D"center"], *=
+[class*=3D"align-left"] img, img[class*=3D"align-left"], *[class*=3D"align-=
+right"] img, img[class*=3D"align-right"] { display:inline-block!important;}=
+ *[class*=3D"center"] table.center, *[class*=3D"align-right"] > table, *[cl=
+ass*=3D"align-left"] > table { display:inline-table!important; }
+
+/*Useful settings for responsive emails*/
+/*GENERAL STYLES*/ *[class*=3D"border-none"] { border:none !important; } *[=
+class*=3D"spacer"] { width:1px!important; height:1px!important; display:blo=
+ck!important; content:url("http://cslb.creatormail.co.uk/sites/general/spac=
+er.gif"); } *[class*=3D"background-none"] { background:transparent!importan=
+t; }
+/*TEXT SIZES*/ *[class*=3D"text-size"] { line-height:120%!important; } *[cl=
+ass*=3D"text-size-10px"] { font-size:10px!important; } *[class*=3D"text-siz=
+e-11px"] { font-size:11px!important; } *[class*=3D"text-size-12px"] { font-=
+size:12px!important; } *[class*=3D"text-size-13px"] { font-size:13px!import=
+ant; } *[class*=3D"text-size-14px"] { font-size:14px!important; } *[class*=
+=3D"text-size-15px"] { font-size:15px!important; } *[class*=3D"text-size-16=
+px"] { font-size:16px!important; } *[class*=3D"text-size-17px"] { font-size=
+:17px!important; } *[class*=3D"text-size-18px"] { font-size:18px!important;=
+ } *[class*=3D"text-size-19px"] { font-size:19px!important; } *[class*=3D"t=
+ext-size-20px"] { font-size:20px!important; } *[class*=3D"text-size-21px"] =
+{ font-size:21px!important; } *[class*=3D"text-size-22px"] { font-size:22px=
+!important; } *[class*=3D"text-size-23px"] { font-size:23px!important; } *[=
+class*=3D"text-size-24px"] { font-size:24px!important; } *[class*=3D"text-s=
+ize-25px"] { font-size:25px!important; }=20
+ *[class*=3D"text-size-26px"] { font-size:26px!important; } *[class*=3D"tex=
+t-size-27px"] { font-size:27px!important; } *[class*=3D"text-size-28px"] { =
+font-size:28px!important; } *[class*=3D"text-size-29px"] { font-size:29px!i=
+mportant; } *[class*=3D"text-size-30px"] { font-size:30px!important; }
+/*WIDTHS*/ *[class*=3D"width-10"] { width:10px!important; } *[class*=3D"wid=
+th-100"], table[class*=3D"width-100"] { width:100%!important; height:auto!i=
+mportant; } *[class*=3D"width-90"], table[class*=3D"width-90"] { width:90%!=
+important; height:auto!important; } *[class*=3D"width-50"], table[class*=3D=
+"width-50"] { width:50%!important; height:auto!important; } *[class*=3D"wid=
+th-0"], table[class*=3D"width-0"] { width:0px!important; height:auto!import=
+ant; } *[class*=3D"width-auto"], table[class*=3D"width-auto"] { width:auto!=
+important; height:auto!important; }
+/*PADDING - ALL*/ *[class*=3D"padding-0"] { padding:0!important; } *[class*=
+=3D"padding-5"] { padding:5px!important; } *[class*=3D"padding-10"] { paddi=
+ng:10px!important; } *[class*=3D"padding-15"] { padding:15px !important; } =
+*[class*=3D"padding-20"] { padding:20px !important; } *[class*=3D"padding-3=
+0"] { padding:30px !important; }
+/*PADDING - HORIZONTAL*/ *[class*=3D"padding-horz-0"] { padding-left:0px !i=
+mportant; padding-right:0px !important; } *[class*=3D"padding-horz-5"] { pa=
+dding-left:5px !important; padding-right:5px !important; } *[class*=3D"padd=
+ing-horz-10"] { padding-left:10px !important; padding-right:10px !important=
+; } *[class*=3D"padding-horz-15"] { padding-left:15px !important; padding-r=
+ight:15px !important; } *[class*=3D"padding-horz-20"] { padding-left:20px !=
+important; padding-right:20px !important; } *[class*=3D"padding-horz-30"] {=
+ padding-left:30px !important; padding-right:30px !important; }
+/*PADDING - VERTICAL*/ *[class*=3D"padding-vert-0"] { padding-top:0px!impor=
+tant; padding-bottom:0px!important; } *[class*=3D"padding-vert-5"] { paddin=
+g-top:5px!important; padding-bottom:5px!important; } *[class*=3D"padding-ve=
+rt-10"] { padding-top:10px!important; padding-bottom:10px!important; } *[cl=
+ass*=3D"padding-vert-15"] { padding-top:15px!important; padding-bottom:15px=
+!important; } *[class*=3D"padding-vert-20"] { padding-top:20px!important; p=
+adding-bottom:20px!important; } *[class*=3D"padding-vert-30"] { padding-top=
+:30px!important; padding-bottom:30px!important; }
+/*PADDING - RIGHT*/ *[class*=3D"padding-right-0"] { padding-right:0px !impo=
+rtant; } *[class*=3D"padding-right-5"] { padding-right:5px !important; } *[=
+class*=3D"padding-right-10"] { padding-right:10px !important; } *[class*=3D=
+"padding-right-15"] { padding-right:15px !important; } *[class*=3D"padding-=
+right-20"] { padding-right:20px !important; } *[class*=3D"padding-right-30"=
+] { padding-right:30px !important; }
+/*PADDING - LEFT*/ *[class*=3D"padding-left-0"] { padding-left:0px !importa=
+nt; } *[class*=3D"padding-left-5"] { padding-left:5px !important; } *[class=
+*=3D"padding-left-10"] { padding-left:10px !important; } *[class*=3D"paddin=
+g-left-15"] { padding-left:15px !important; } *[class*=3D"padding-left-20"]=
+ { padding-left:20px !important; } *[class*=3D"padding-left-30"] { padding-=
+left:30px !important; }
+/*PADDING - TOP*/ *[class*=3D"padding-top-0"] { padding-top:0px!important; =
+} *[class*=3D"padding-top-5"] { padding-top:5px!important; } *[class*=3D"pa=
+dding-top-10"] { padding-top:10px!important; } *[class*=3D"padding-top-15"]=
+ { padding-top:15px!important; } *[class*=3D"padding-top-20"] { padding-top=
+:20px!important; } *[class*=3D"padding-top-30"] { padding-top:30px!importan=
+t; }
+/*PADDING - BOTTOM*/ *[class*=3D"padding-bottom-0"] { padding-bottom:0px!im=
+portant; } *[class*=3D"padding-bottom-5"] { padding-bottom:5px!important; }=
+ *[class*=3D"padding-bottom-10"] { padding-bottom:10px !important; } *[clas=
+s*=3D"padding-bottom-15"] { padding-bottom:15px !important; } *[class*=3D"p=
+adding-bottom-20"] { padding-bottom:20px !important; } *[class*=3D"padding-=
+bottom-30"] { padding-bottom:30px !important; }
+
+/**Styles Specific to this Email **/
+
+*[class*=3D"header-gif"], *[class*=3D"header-gif"] img { width:100%!importa=
+nt; min-height:220px!important; }
+*[class*=3D"header_01"] { background:url(http://img.email.upc.nl/sites/upc/=
+nl/general/weekly_template/headers/header_01.png) no-repeat top left!import=
+ant; background-size:300px 174px!important;}
+*[class*=3D"header_01"] img { display:none!important;}
+*[class*=3D"header_01"] a { display:block!important; width:300px!important;=
+ height:174px!important;}
+
+*[class*=3D"header_02"] { background:url(http://img.email.upc.nl/sites/upc/=
+nl/general/weekly_template/headers/header_02a.png) no-repeat top left!impor=
+tant; background-size:300px 174px!important;}
+*[class*=3D"header_02"] img { display:none!important;}
+*[class*=3D"header_02"] a { display:block!important; width:300px!important;=
+ height:174px!important;}
+
+*[class*=3D"header_03"] { width:300px!important; height:174px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_template/h=
+eaders/header_03.png) no-repeat top left!important; background-size:auto 10=
+0%!important;}
+
+*[class*=3D"header_04"] { width:300px!important; height:174px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_template/h=
+eaders/header6.jpg) no-repeat top left!important; background-size:auto 100%=
+!important;}
+
+*[class*=3D"header_05"] { width:300px!important; height:313px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/2015/03Mar/UPC_NL01393_In=
+ternetstoring/header_bg_m.png) no-repeat top left!important; background-siz=
+e:300px 313px!important;}
+
+*[class*=3D"header_06"] { width:300px!important; height:346px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_template/h=
+eaders/header_06b.png) no-repeat top left!important; background-size:auto 1=
+00%!important;}
+
+*[class*=3D"header_07"] { width:300px!important; height:346px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_template/h=
+eaders/header_07a.png) no-repeat top left!important; background-size:auto 1=
+00%!important;}
+
+*[class*=3D"header_08"] { width:300px!important; height:346px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_template/h=
+eaders/header_08b.png) no-repeat top left!important; background-size:auto 1=
+00%!important;}
+
+*[class*=3D"header_09"] { width:300px!important; height:346px!important; ba=
+ckground:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_template/h=
+eaders/header_09a.png) no-repeat top left!important; background-size:auto 1=
+00%!important;}
+
+/*SECONDARY*/
+
+*[class*=3D"line"], *[class*=3D"line"] img { width:298px!important; height:=
+14px!important;}
+*[class*=3D"secondary_19"] { width:278px!important; height:166px!important;=
+ background:url(http://img.email.upc.nl/sites/upc/nl/general/weekly_templat=
+e/secondary/secondary_19_img_02.jpg) no-repeat top left!important; backgrou=
+nd-size:278px 166px!important; border-radius:5px!important;}
+
+*[class*=3D"body-bg"] { background:#EFF2FB!important; }
+
+}
+/**Styles un-encoded, for pick-up by intellisense**/
+.MainTable, .main-padding, .hide, .tablet-hide, .tablet-padding-bottom-10, =
+.show, .float-left, .float-right, .drop, .block, .center, .align-left, .ali=
+gn-right, .background-none, .border-none, .spacer, .text-size-10px, .text-s=
+ize-11px, .text-size-12px, .text-size-13px, .text-size-14px, .text-size-15p=
+x, .text-size-16px, .text-size-17px, .text-size-18px, .text-size-19px, .tex=
+t-size-20px, .text-size-21px, .text-size-22px, .text-size-23px, .text-size-=
+24px, .text-size-25px, .text-size-26px, .text-size-27px, .text-size-28px, .=
+text-size-29px, .text-size-30px, .width-90, .width-100, .width-auto, .width=
+-0, .width-50, .padding-0, .padding-5, .padding-10, .padding-15, .padding-2=
+0, .padding-30, .padding-right-0, .padding-right-5, .padding-right-10, .pad=
+ding-right-15, .padding-right-20, .padding-right-30, .padding-left-0, .padd=
+ing-left-5, .padding-left-10, .padding-left-15, .padding-left-20, .padding-=
+left-30, .padding-top-0, .padding-top-5, .padding-top-10, .padding-top-15, =
+.padding-top-20,=20
+ .padding-top-30, .padding-bottom-0, .padding-bottom-5, .padding-bottom-10,=
+ .padding-bottom-15, .padding-bottom-20, .padding-bottom-30, .padding-vert-=
+0, .padding-vert-5, .padding-vert-10, .padding-vert-15, .padding-vert-20, .=
+padding-vert-30, .padding-horz-0, .padding-horz-5, .padding-horz-10, .paddi=
+ng-horz-15, .padding-horz-20, .padding-horz-30 { animation:none; }
+</style>
+</head>
+<body rightmargin=3D"0" bgcolor=3D"#EFF2FB" topmargin=3D"0" leftmargin=3D"0=
+" bottommargin=3D"0">
+<div style=3D"background-color:#EFF2FB;">
+  <!--[if gte mso 9]>
+  <v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+    <v:fill type=3D"tile" src=3D"http://img.email.upc.nl/sites/upc/nl/gener=
+al/weekly_template/general/background.jpg" color=3D"#EFF2FB"/>
+  </v:background>
+  <![endif]-->
+  <table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+    <tr>
+      <td background=3D"http://img.email.upc.nl/sites/upc/nl/general/weekly=
+_template/general/background.jpg" valign=3D"top" class=3D"body-bg" align=3D=
+"left"><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"=
+0">
+  <tr>
+    <td bgcolor=3D"#F9F9F9" style=3D"line-height:0px; font-size:0px; text-i=
+ndent:-9999px" valign=3D"top" align=3D"left">Onze tips voor nog stabieler i=
+nternet</td>
+  </tr>
+  <tr>
+                <td bgcolor=3D"#f9f9f9" valign=3D"top" align=3D"center"><ta=
+ble width=3D"550" cellspacing=3D"0" border=3D"0" class=3D"MainTable" cellpa=
+dding=3D"0">
+  <tr>
+    <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; =
+color:#666666; padding:5px 10px 5px 10px; line-height:16px; mso-line-height=
+-rule:exactly;" valign=3D"top" align=3D"center">Bekijk hier de <a style=3D"=
+color:#0097dc; text-decoration:underline;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/12620/8/?6299e5a7=3DaHR0cDovL2VtYWls=
+LnVwYy5ubC9yZWFkL2FyY2hpdmU%2faWQ9MjY2NTQ1Jm1pZD01NTYyMDc1NiZlPW1lbnpvJTJld=
+2lqbWVuZ2ElNDBnbWFpbCUyZWNvbSZ4PTRmNGRiMDQz&x=3D8e29a289=
+">online versie</a>  |  Voeg <a style=3D"color:#0097dc; text-decoration:non=
+e;" href=3D"mailto:upc.nl@email.upc.nl">upc.nl@email.upc.nl</a> toe aan uw =
+lijst met veilige afzenders.</td>
+  </tr>
+</table></td>
+              </tr>
+  <tr>
+    <td valign=3D"top" align=3D"center"><table width=3D"550" cellspacing=3D=
+"0" border=3D"0" class=3D"MainTable" cellpadding=3D"0">
+        <tr>
+          <td style=3D"padding:15px 0 15px 0;" valign=3D"top" align=3D"left=
+"><table width=3D"108" cellspacing=3D"0" border=3D"0" class=3D"drop" align=
+=3D"left" cellpadding=3D"0">
+            <tr>
+              <td style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; color:#2c3f96;" valign=3D"top" align=3D"center"><a style=3D"color=
+:#2c3f96; text-decoration:none;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477244/9/?e9a1ae88=3DaHR0cDovL3d3d=
+y51cGMubmwvP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D16cc959a=
+"><img width=3D"108" src=3D"http://img.email.upc.nl/sites/upc/nl/general/we=
+ekly_template/general/upc_logo_inline.png" style=3D"display:block" height=
+=3D"58" alt=3D"upc" border=3D"0" /></a></td>
+              </tr>
+            </table>
+            <table width=3D"227" cellspacing=3D"0" border=3D"0" class=3D"hi=
+de" align=3D"right" cellpadding=3D"0">
+              <tr>
+                <td style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:12px; color:#2c3f96; padding:20px 0 0 0;" valign=3D"top" class=3D"" a=
+lign=3D"right"><a style=3D"color:#2c3f96; text-decoration:none;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477244/10/?e9a1ae88=3DaHR0cDovL3d3=
+dy51cGMubmwvP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D0fecf7f0=
+" title=3D"More power, more joy"><img width=3D"227" src=3D"http://img.email=
+.upc.nl/sites/upc/nl/general/weekly_template/general/more_power_more_joy.pn=
+g" style=3D"display:block" height=3D"24" alt=3D"More power, more joy" borde=
+r=3D"0" /></a></td>
+                </tr>
+              </table></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"center"><table width=3D"550" cellspacing=3D=
+"0" border=3D"0" class=3D"MainTable" cellpadding=3D"0">
+  <tr>
+    <td style=3D"font-size:0px; line-height:0px;" valign=3D"top" class=3D"h=
+ide" align=3D"left"><img width=3D"550" src=3D"http://img.email.upc.nl/sites=
+/upc/nl/2015/03Mar/UPC_NL01393_Internetstoring/header_t.png" style=3D"displ=
+ay:block;" alt=3D"" border=3D"0" class=3D"width-100"></td>
+  </tr>
+  <tr>
+    <td width=3D"550" bgcolor=3D"#EFF2FB" background=3D"http://img.email.up=
+c.nl/sites/upc/nl/2015/03Mar/UPC_NL01393_Internetstoring/header_bg.jpg" val=
+ign=3D"top" height=3D"313" class=3D"header_05">
+      <!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D=
+"false" style=3D"width:550px;height:313px;">
+    <v:fill type=3D"tile" src=3D"http://img.email.upc.nl/sites/upc/nl/2015/=
+03Mar/UPC_NL01393_Internetstoring/header_bg.jpg" color=3D"#EFF2FB" />
+    <v:textbox inset=3D"0,0,0,0">
+<![endif]-->
+      <div><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=
+=3D"0">
+        <tr>
+          <td valign=3D"top" align=3D"left"><table width=3D"100%" cellspaci=
+ng=3D"0" border=3D"0" cellpadding=3D"0">
+            <tr>
+              <td width=3D"25" valign=3D"top" style=3D"font-size:0px; line-=
+height:0px;" class=3D"width-10" align=3D"left"><img width=3D"25" src=3D"htt=
+p://img.email.upc.nl/sites/upc/nl/general/weekly_template/general/spacer.gi=
+f" style=3D"display:block" height=3D"1" alt=3D"" class=3D"width-10" border=
+=3D"0" /></td>
+              <td valign=3D"top" align=3D"left"><table width=3D"100%" cells=
+pacing=3D"0" border=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:31px; color:#2c3f96; padding:20px 0 20px 0; line-height:35px; mso-l=
+ine-height-rule:exactly;" valign=3D"top" class=3D"text-size-24px padding-ve=
+rt-10" align=3D"left"><a style=3D"color:#2c3f96; text-decoration:none;" hre=
+f=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/11/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D1da34d76=
+">Hulp bij internetstoring</a></td>
+                  </tr>
+                  <tr>
+                  <td width=3D"500" valign=3D"top" style=3D"font-size:0px; =
+line-height:0px;" class=3D"header-gif" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/12/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D8759d95b=
+"><img width=3D"500" src=3D"http://img.email.upc.nl/sites/upc/nl/general/we=
+ekly_template/general/header_gif.gif" style=3D"display:block" height=3D"185=
+" alt=3D"" border=3D"0" /></a></td>
+                  </tr>
+                <tr>
+                  <td valign=3D"top" align=3D"left"><table cellspacing=3D"0=
+" border=3D"0" cellpadding=3D"0">
+                    <tr>
+                      <td valign=3D"top" align=3D"left"><table width=3D"100=
+%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/org_btn/btn_org_tl.png" width=3D"4" alt=3D"" heig=
+ht=3D"4" style=3D"display:block;" border=3D"0"></td>
+                          <td bgcolor=3D"#FF7D00" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email=
+.upc.nl/sites/upc/nl/general/weekly_template/general/spacer.gif" width=3D"1=
+" alt=3D"" height=3D"1" style=3D"display:block;" border=3D"0"></td>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/org_btn/btn_org_tr.png" width=3D"4" alt=3D"" heig=
+ht=3D"4" style=3D"display:block;" border=3D"0"></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    <tr>
+                      <td bgcolor=3D"#FF7D00" valign=3D"top" align=3D"left"=
+><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"1" valign=3D"bottom" align=3D"left">=
+<img src=3D"http://img.email.upc.nl/sites/upc/nl/general/2013/org_btn/btn_o=
+rg_side.png" width=3D"1" alt=3D"" height=3D"20" style=3D"display:block;" bo=
+rder=3D"0"></td>
+                          <td valign=3D"middle" style=3D"padding:0px 0px 0p=
+x 0;" align=3D"center"><table width=3D"100%" cellspacing=3D"0" border=3D"0"=
+ cellpadding=3D"0">
+                            <tr>
+                              <td valign=3D"middle" style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:16px; color:#ffffff; padding:0px 10px=
+ 0px 10px; text-shadow:0px -1px 0px #D55E00; line-height:20px; mso-line-hei=
+ght-rule:exactly;" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/13/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D05dd72a2=
+" style=3D"color:#ffffff; text-decoration:none;">Handige&nbsp;tips</a></td>
+                              </tr>
+                            </table></td>
+                          <td width=3D"15" style=3D"font-size:0px; line-hei=
+ght:0px;" valign=3D"middle" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/14/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3Dd9b88a9a=
+"><img width=3D"8" src=3D"http://img.email.upc.nl/sites/upc/nl/general/2013=
+/org_btn/btn_org_arrow.png" style=3D"display:block;" height=3D"14" alt=3D""=
+ border=3D"0"></a></td>
+                          <td width=3D"1" valign=3D"bottom" align=3D"left">=
+<img src=3D"http://img.email.upc.nl/sites/upc/nl/general/2013/org_btn/btn_o=
+rg_side.png" width=3D"1" alt=3D"" height=3D"20" style=3D"display:block;" bo=
+rder=3D"0"></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    <tr>
+                      <td valign=3D"top" align=3D"left"><table width=3D"100=
+%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/org_btn/btn_org_bl.png" width=3D"4" alt=3D"" heig=
+ht=3D"4" style=3D"display:block;" border=3D"0"></td>
+                          <td bgcolor=3D"#FF7D00" valign=3D"top" align=3D"l=
+eft"><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0"=
+>
+                            <tr>
+                              <td style=3D"font-size:0px; line-height:0px;"=
+ height=3D"3" valign=3D"top" align=3D"left"><img src=3D"http://img.email.up=
+c.nl/sites/upc/nl/general/weekly_template/general/spacer.gif" width=3D"1" a=
+lt=3D"" height=3D"3" style=3D"display:block;" border=3D"0"></td>
+                              </tr>
+                            <tr>
+                              <td bgcolor=3D"#D55E00" style=3D"font-size:0p=
+x; line-height:0px;" height=3D"1" valign=3D"top" align=3D"left"><img src=3D=
+"http://img.email.upc.nl/sites/upc/nl/general/weekly_template/general/space=
+r.gif" width=3D"1" alt=3D"" height=3D"1" style=3D"display:block;" border=3D=
+"0"></td>
+                              </tr>
+                            </table></td>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/org_btn/btn_org_br.png" width=3D"4" alt=3D"" heig=
+ht=3D"4" style=3D"display:block;" border=3D"0"></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+  </table>
+  </td>
+  <td width=3D"25" valign=3D"top" style=3D"font-size:0px; line-height:0px;"=
+ class=3D"width-10" align=3D"left"><img width=3D"25" src=3D"http://img.emai=
+l.upc.nl/sites/upc/nl/general/weekly_template/general/spacer.gif" style=3D"=
+display:block" height=3D"1" alt=3D"" class=3D"width-10" border=3D"0" /></td=
+>
+              </tr>
+  </table>
+  </td>
+          </tr>
+       =20
+  </table>
+  </div>
+      <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]-->
+  </td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+                <td valign=3D"top" align=3D"center"><table width=3D"550" ce=
+llspacing=3D"0" border=3D"0" class=3D"MainTable" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" cellspacing=3D"=
+0" border=3D"0" cellpadding=3D"0">
+                	<tr>
+                    	<td width=3D"1" bgcolor=3D"#c0c6df" valign=3D"top" ali=
+gn=3D"left"><img width=3D"1" src=3D"http://img.email.upc.nl/sites/upc/nl/ge=
+neral/weekly_template/general/spacer.gif" style=3D"display:block" height=3D=
+"1" alt=3D"" border=3D"0" /></td>
+                        <td bgcolor=3D"#ffffff" valign=3D"top" align=3D"lef=
+t"><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td style=3D"padding:0px 0 15px 0;" valign=3D"t=
+op" align=3D"left"><table width=3D"100%" cellspacing=3D"0" border=3D"0" cel=
+lpadding=3D"0">
+                              <!--INBOX MIN-WIDTH FIX - DO NOT REMOVE-->
+                              <tr>
+                                <td valign=3D"top" align=3D"left"><table wi=
+dth=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+        <tr>
+          <td style=3D"font-size:0px; line-height:0px;" valign=3D"top" clas=
+s=3D"center" align=3D"left"><img width=3D"548" src=3D"http://img.email.upc.=
+nl/sites/upc/nl/general/weekly_template/general/line.png" style=3D"display:=
+block" height=3D"25" alt=3D"" class=3D"width-100" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td valign=3D"top" align=3D"left"><table width=3D"100%" cellspaci=
+ng=3D"0" border=3D"0" cellpadding=3D"0">
+            <tr>
+              <td valign=3D"top" style=3D"padding:0 19px 0 19px;" class=3D"=
+padding-horz-10" align=3D"left"><table width=3D"100%" cellspacing=3D"0" bor=
+der=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:22px; color:#2c3f96; padding:0 0 10px 0; line-height:26px; mso-line=
+-height-rule:exactly;" valign=3D"top" align=3D"left"><a style=3D"color:#2c3=
+f96; text-decoration:none;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/15/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3Da0080fec=
+">Tips voor een betere internetverbinding</a></td>
+                </tr>
+                <tr>
+                  <td style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:14px; color:#666666; padding:0 0 10px 0; line-height:18px; mso-line=
+-height-rule:exactly;" valign=3D"top" align=3D"left"><strong>=
+Beste heer, mevrouw  Wijmenga=
+,</strong></td>
+                </tr>
+                <tr>
+                  <td style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:14px; color:#666666; padding:0 0 15px 0; line-height:20px; mso-line=
+-height-rule:exactly;" valign=3D"top" align=3D"left">Heeft u het idee dat u=
+w internet niet of niet overal goed werkt? We geven u graag <a style=3D"col=
+or:#00aadd; text-decoration:underline;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/16/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3Dbc141b36=
+">tips</a> waarmee u zelf uw internetverbinding verbetert. </td>
+                </tr>
+                <tr>
+                  <td style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:14px; color:#666666; padding:0 0 20px 0; line-height:20px; mso-line=
+-height-rule:exactly;" valign=3D"top" align=3D"left"><table cellspacing=3D"=
+0" border=3D"0" cellpadding=3D"0">
+                    <tr>
+                      <td valign=3D"top" align=3D"left"><table width=3D"100=
+%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/blue_btn/btn_blue_tl.png" width=3D"4" alt=3D"" he=
+ight=3D"4" style=3D"display:block;" border=3D"0"></td>
+                          <td bgcolor=3D"#16bae7" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email=
+.upc.nl/sites/upc/nl/general/weekly_template/general/spacer.gif" width=3D"1=
+" alt=3D"" height=3D"1" style=3D"display:block;" border=3D"0"></td>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/blue_btn/btn_blue_tr.png" width=3D"4" alt=3D"" he=
+ight=3D"4" style=3D"display:block;" border=3D"0"></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor=3D"#16bae7" valign=3D"top" align=3D"left"=
+><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"1" valign=3D"bottom" align=3D"left">=
+<img src=3D"http://img.email.upc.nl/sites/upc/nl/general/2013/blue_btn/btn_=
+blue_side.png" width=3D"1" alt=3D"" height=3D"20" style=3D"display:block;" =
+border=3D"0"></td>
+                          <td valign=3D"middle" style=3D"padding:0px 0px 0p=
+x 0;" align=3D"center"><table width=3D"100%" cellspacing=3D"0" border=3D"0"=
+ cellpadding=3D"0">
+                            <tr>
+                              <td valign=3D"middle" style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:16px; color:#ffffff; padding:0px 10px=
+ 0px 10px; text-shadow:0px -1px 0px #1594ba; line-height:20px; mso-line-hei=
+ght-rule:exactly;" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/17/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D030622d0=
+" style=3D"color:#ffffff; text-decoration:none;">Hulp&nbsp;bij&nbsp;interne=
+tstoring</a></td>
+                            </tr>
+                          </table></td>
+                          <td width=3D"15" style=3D"font-size:0px; line-hei=
+ght:0px;" valign=3D"middle" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477696/18/?5bb6912e=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvaW50ZXJuZXQvaHVscC1iaWotaW50ZXJuZXRzdG9yaW5=
+nP2VjbXA9VU5JMTcxMDFFQSZjYz1VTkkxNzEwMUVB&x=3D8d69123a=
+"><img width=3D"8" src=3D"http://img.email.upc.nl/sites/upc/nl/general/2013=
+/blue_btn/btn_blue_arrow.png" style=3D"display:block;" height=3D"14" alt=3D=
+"" border=3D"0"></a></td>
+                          <td width=3D"1" valign=3D"bottom" align=3D"left">=
+<img src=3D"http://img.email.upc.nl/sites/upc/nl/general/2013/blue_btn/btn_=
+blue_side.png" width=3D"1" alt=3D"" height=3D"20" style=3D"display:block;" =
+border=3D"0"></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                    <tr>
+                      <td valign=3D"top" align=3D"left"><table width=3D"100=
+%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/blue_btn/btn_blue_bl.png" width=3D"4" alt=3D"" he=
+ight=3D"4" style=3D"display:block;" border=3D"0"></td>
+                          <td bgcolor=3D"#16bae7" valign=3D"top" align=3D"l=
+eft"><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0"=
+>
+                            <tr>
+                              <td style=3D"font-size:0px; line-height:0px;"=
+ height=3D"3" valign=3D"top" align=3D"left"><img src=3D"http://img.email.up=
+c.nl/sites/upc/nl/general/weekly_template/general/spacer.gif" width=3D"1" a=
+lt=3D"" height=3D"3" style=3D"display:block;" border=3D"0"></td>
+                            </tr>
+                            <tr>
+                              <td bgcolor=3D"#1594ba" style=3D"font-size:0p=
+x; line-height:0px;" height=3D"1" valign=3D"top" align=3D"left"><img src=3D=
+"http://img.email.upc.nl/sites/upc/nl/general/weekly_template/general/space=
+r.gif" width=3D"1" alt=3D"" height=3D"1" style=3D"display:block;" border=3D=
+"0"></td>
+                            </tr>
+                          </table></td>
+                          <td width=3D"4" style=3D"font-size:0px; line-heig=
+ht:0px;" valign=3D"top" align=3D"left"><img src=3D"http://img.email.upc.nl/=
+sites/upc/nl/general/2013/blue_btn/btn_blue_br.png" width=3D"4" alt=3D"" he=
+ight=3D"4" style=3D"display:block;" border=3D"0"></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+                              </tr>
+                              <tr class=3D"hide">
+                                <td valign=3D"top" align=3D"left"><table wi=
+dth=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                  <tr>
+                                    <td width=3D"274" style=3D"font-size:0p=
+x; line-height:0px;" valign=3D"top" align=3D"left"><img width=3D"274" src=
+=3D"http://images.univadis.com/sites/general/large_spacer.gif" style=3D"dis=
+play:block" height=3D"1" alt=3D"" border=3D"0"></td>
+                                    <td width=3D"274" style=3D"font-size:0p=
+x; line-height:0px;" valign=3D"top" align=3D"left"><img width=3D"274" src=
+=3D"http://images.univadis.com/sites/general/large_spacer.gif" style=3D"dis=
+play:block" height=3D"1" alt=3D"" border=3D"0"></td>
+                                    </tr>
+                                  </table></td>
+                              </tr>
+                              <!--/INBOX MIN-WIDTH FIX - DO NOT REMOVE-->
+                              </table></td>
+                          </tr>
+                        </table>
+                        </td>
+                        <td width=3D"1" bgcolor=3D"#c0c6df" valign=3D"top" =
+align=3D"left"><img width=3D"1" src=3D"http://img.email.upc.nl/sites/upc/nl=
+/general/weekly_template/general/spacer.gif" style=3D"display:block" height=
+=3D"1" alt=3D"" border=3D"0" /></td>
+                    </tr>
+                </table></td>
+  </tr>
+  <tr>
+                                    <td valign=3D"top" align=3D"left"><tabl=
+e width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                      <tr>
+                                        <td width=3D"5" style=3D"font-size:=
+0px; line-height:0px;" valign=3D"top" align=3D"left"><img width=3D"5" src=
+=3D"http://img.email.upc.nl/sites/upc/nl/general/weekly_template/general/ma=
+in_bl.png" style=3D"display:block" height=3D"5" alt=3D"" border=3D"0" /></t=
+d>
+                                        <td bgcolor=3D"#eaecf4" style=3D"fo=
+nt-size:0px; line-height:0px;" valign=3D"top" align=3D"left"><table width=
+=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+  <tr>
+    <td bgcolor=3D"#ffffff" style=3D"font-size:0px; line-height:0px;" valig=
+n=3D"top" align=3D"left"><img width=3D"1" src=3D"http://img.email.upc.nl/si=
+tes/upc/nl/general/weekly_template/general/spacer.gif" style=3D"display:blo=
+ck" height=3D"4" alt=3D"" border=3D"0" /></td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#c0c6df" style=3D"font-size:0px; line-height:0px;" valig=
+n=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://img.em=
+ail.upc.nl/sites/upc/nl/general/weekly_template/general/spacer.gif" style=
+=3D"display:block" height=3D"1" alt=3D"" border=3D"0" /></td>
+  </tr>
+</table>
+</td>
+                                        <td width=3D"5" style=3D"font-size:=
+0px; line-height:0px;" valign=3D"top" align=3D"left"><img width=3D"5" src=
+=3D"http://img.email.upc.nl/sites/upc/nl/general/weekly_template/general/ma=
+in_br.png" style=3D"display:block" height=3D"5" alt=3D"" border=3D"0" /></t=
+d>
+                                      </tr>
+                                    </table></td>
+                                  </tr>
+</table>
+
+             </td>
+          </tr>
+          <tr>
+                <td valign=3D"top" align=3D"center"><table width=3D"550" ce=
+llspacing=3D"0" border=3D"0" class=3D"MainTable" cellpadding=3D"0">
+                <tr>
+                  <td style=3D"padding:20px 0 0 0;" valign=3D"top" align=3D=
+"left"><table width=3D"100%" cellspacing=3D"0" border=3D"0" cellpadding=3D"=
+0">
+                      <tr>
+                        <td valign=3D"top" align=3D"left"><table width=3D"1=
+00%" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                            <tr>
+                              <td valign=3D"top" align=3D"left"><table widt=
+h=3D"230" cellspacing=3D"0" border=3D"0" class=3D"drop" align=3D"left" cell=
+padding=3D"0">
+                                  <tr>
+                                    <td style=3D"font-family:Arial, Helveti=
+ca, sans-serif; color:#999999; font-size:12px; padding:10px 0 10px 0;" vali=
+gn=3D"middle" align=3D"left"><a style=3D"color:#00A9DD; text-decoration:non=
+e;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477247/19/?f01a2545=3DaHR0cDovL3d3=
+dy51cGMubmwva2xhbnRlbnNlcnZpY2UvdXBjLXdpbmtlbHMtZW4tZGVhbGVycy8%2fZWNtcD1VT=
+kkxNzEwMUVBJmNjPVVOSTE3MTAxRUE%3d&x=3Df8a39009=
+">UPC Winkel</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style=3D"color:#00A9DD; text-de=
+coration:none;" href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477248/20/?8520242a=3DaHR0cHM6Ly9z=
+ZXJ2aWNlLnVwYy5ubC9sb2dpbi8%2fZWNtcD1VTkkxNzEwMUVBJmNjPVVOSTE3MTAxRUE%3d&x=
+=3Dadf954a5=
+">Mijn UPC</a></td>
+                                  </tr>
+                                </table>
+                                <table width=3D"170" cellspacing=3D"0" bord=
+er=3D"0" class=3D"block" align=3D"right" cellpadding=3D"0">
+                                  <tr>
+                                    <td valign=3D"top" align=3D"left"><tabl=
+e cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                        <tr>
+                                          <td valign=3D"top" align=3D"left"=
+><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/20477249/21/?ee51d690=3DaHR0cDovL3d3=
+dy51cGMubmwvcHJpdmFjeS8%2fZWNtcD1VTkkxNzEwMUVBJmNjPVVOSTE3MTAxRUE%3d&x=3D41=
+5e72ee=
+"><img width=3D"55" src=3D"http://img.email.upc.nl/sites/upc/nl/general/wee=
+kly_template/general/privacy_icon.png" style=3D"display:block;" height=3D"3=
+1" alt=3D"" border=3D"0"></a></td>
+                                          <td style=3D"padding:0 0 0 10px;"=
+ valign=3D"top" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/16070808/22/=
+"><img width=3D"28" src=3D"http://img.email.upc.nl/sites/upc/nl/general/wee=
+kly_template/general/google_plus_icon.png" style=3D"display:block;" height=
+=3D"28" alt=3D"" border=3D"0"></a></td>
+                                          <td style=3D"padding:0 0 0 10px;"=
+ valign=3D"top" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/15698505/23/=
+"><img width=3D"28" src=3D"http://img.email.upc.nl/sites/upc/nl/general/wee=
+kly_template/general/facebook_icon.png" style=3D"display:block;" height=3D"=
+28" alt=3D"" border=3D"0"></a></td>
+                                          <td style=3D"padding:0 0 0 10px;"=
+ valign=3D"top" align=3D"left"><a href=3D"=
+http://email.upc.nl/t/4383554/55620756/15698692/24/=
+"><img width=3D"28" src=3D"http://img.email.upc.nl/sites/upc/nl/general/wee=
+kly_template/general/twitter_icon.png" style=3D"display:block;" height=3D"2=
+8" alt=3D"" border=3D"0"></a></td>
+                                        </tr>
+                                      </table></td>
+                                  </tr>
+                                </table></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                      <tr>
+                        <td style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:10px; color:#999999; padding:10px 200px 10px 0;" valign=3D"to=
+p" class=3D"padding-right-0" align=3D"left">UPC Nederland B.V., statutair g=
+evestigd te Amsterdam, KvK Amsterdam <a style=3D"color:#999999; text-decora=
+tion:none;" href=3D"#"><span>33303479</span></a>. Op al onze aanbiedingen e=
+n overeenkomsten zijn de desbetreffende algemene voorwaarden, gedeponeerd b=
+ij de KvK te Amsterdam, van toepassing.</td>
+                      </tr>
+                      <tr>
+                        <td style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:10px; color:#999999; padding:10px 0px 10px 0;" valign=3D"top"=
+ class=3D"padding-right-0" align=3D"left">Kijk uit voor phishing: internetc=
+riminelen vissen met valse e-mails naar uw priv&eacute;gegevens. UPC vraagt=
+ nooit naar persoonlijke gegevens via e-mail. Lees op onze website <a href=
+=3D"=
+http://email.upc.nl/t/4383554/55620756/20477252/25/?47ecf42f=3DaHR0cDovL3d3=
+dy51cGMubmwvaW50ZXJuZXQvdmVpbGlnLWludGVybmV0L3BoaXNoaW5nLz9lY21wPVVOSTE3MTA=
+xRUEmY2M9VU5JMTcxMDFFQQ%3d%3d&x=3D0e017f1f=
+" style=3D"color:#999999; text-decoration:underline;">www.upc.nl/phishing</=
+a> hoe u phishing herkent en wat u zelf kunt doen.</td>
+                      </tr>
+                      <tr>
+                        <td style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:10px; color:#999999; padding:0 0 40px 0;" valign=3D"top" alig=
+n=3D"left">=
+UNI17101EA=
+</td>
+                      </tr>
+                    </table></td>
+                </tr>
+              </table></td>
+          </tr>
+</table>
+
+            </td>
+    </tr>
+  </table>
+  <pre>&nbsp;</pre>
+</div>
+=
+<IMG ALT=3D"" SRC=3D"http://email.upc.nl/db/4383554/55620756/1.gif" WIDTH=
+=3D1 HEIGHT=3D1>=
+<img src=3D'http://sc.upc.nl/b/ss/upcnl/1/EMAIL/4501049?mtp=3Demail1&mtss=
+=3D31536000&v64=3D55620756&v65=3D&ce=3DUTF-8' width=3D'1' height=3D'1'>=
+<img src=3D'http://access2.creatormail.co.uk/upc/devicedetector/DeviceDetec=
+tor.ashx?&l=3Dupc_nl&m=3D55620756&o=3D4383554&ewid=3D&c=3D3' width=3D'1' he=
+ight=3D'1' />=
+</body>
+</html>
+
+--MIMEBoundaryfcd25ccb4eab0b2fca3b8f81818b64f3--
+
